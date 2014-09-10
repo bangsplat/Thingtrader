@@ -1,0 +1,48 @@
+
+
+main functionality is to post, share, and download 
+
+
+support multiple licenses
+     CC
+     PD
+     GPL
+     MIT
+     (c)
+
+tags
+
+2D image support
+video support (external links to YouTube, Vimeo, etc?)
+2D rendering from OBJ, STL, etc.
+3D preview from OBJ, STL, etc.
+
+version control
+     v1, v2, v3, etc.
+     branches
+     (think Github)
+
+categories/albums/playlists
+     (like YouTube playlists)
+
+comments
+     with karma points/user likes/dislikes
+
+likes/dislikes
+subscription
+     per item
+     per "playlist"
+     per user
+
+user makes
+
+
+
+algorithm based on likes/subs/moderator input to curate featured collections and per-user suggestions
+
+
+
+
+###
+
+Gitorious back end?
